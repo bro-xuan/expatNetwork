@@ -1,4 +1,4 @@
-<h1 align="center">Fiverr Clone</h1>
+<h1 align="center">ExpatNetwork Clone</h1>
 
 <h3 align="center">A setout to clone one of the largest outsourcing platforms using the toolset from the MERN stack.</h3>
 
@@ -40,7 +40,7 @@
 </p>
 <br />
 
-![cover](https://i.ibb.co/16SWfbg/Fiverr-Gif.gif)
+![cover](https://i.ibb.co/16SWfbg/ExpatNetwork-Gif.gif)
 
 <br />
 <br />
@@ -83,7 +83,7 @@ As for the front end, the UI has only been built using JSX and Scss. For state m
 
 <br />
 
-## Glimpses of fiverr-clone 😉 :
+## Glimpses of ExpatNetwork-clone 😉 :
 
 <table>
   <tr>
@@ -129,18 +129,18 @@ This project was built using React, Redux, Sass, HTML, JavaScript, Rest API, Nod
 
 ### Setup
 
-The project repository can be found in [GitHub link](https://github.com/zuhedshaikh95/fiverr-clone) or just clone the project using this command.
+The project repository can be found in [GitHub link](https://github.com/zuhedshaikh95/ExpatNetwork-clone) or just clone the project using this command.
 
 ```
 Using HTTPS
 
-# git clone https://github.com/zuhedshaikh95/fiverr-clone.git
+# git clone https://github.com/zuhedshaikh95/ExpatNetwork-clone.git
 ```
 
 - Open terminal on your workspace with
 
 ```
-cd /home/workspace/fiverr-clone
+cd /home/workspace/ExpatNetwork-clone
 ```
 
 ## Install

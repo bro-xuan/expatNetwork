@@ -1,78 +1,78 @@
 export const cards = [
     {
       id: 1,
-      title: "AI Artists",
-      desc: "Add talent to AI",
+      title: "资深留学顾问",
+      desc: "人才1",
       img: "https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/f27bec553efc12cc60baed89b8f2223e-1674661140708/ai-artists-2x.png",
       slug: 'ai',
     },
     {
       id: 2,
-      title: "Logo Design",
-      desc: "Build yor brand",
+      title: "职业发展顾问",
+      desc: "人才2",
       img: "https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741678/logo-design-2x.png",
       slug: 'design',
     },
     {
       id: 3,
-      title: "WordPress",
-      desc: "Customize your site",
-      img: "https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/ae11e2d45410b0eded7fba0e46b09dbd-1598561917003/wordpress-2x.png",
+      title: "心理咨询师",
+      desc: "人才3",
+      img: "https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741664/illustration-2x.png",
       slug: 'wordpress'
     },
     {
       id: 4,
-      title: "Voice Over",
-      desc: "Share your message",
+      title: "语言培训师",
+      desc: "人才4",
       img: "https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741669/voiceover-2x.png",
       slug: 'voice'
     },
     {
       id: 5,
-      title: "Video Explainer",
-      desc: "Engage your audience",
+      title: "租房与安家服务专家",
+      desc: "人才5",
       img: "https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741663/animated-explainer-2x.png",
       slug: 'video'
     },
     {
       id: 6,
-      title: "Social Media",
-      desc: "Reach more customers",
+      title: "文化适应顾问",
+      desc: "人才6",
       img: "https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741667/social-2x.png",
       slug: 'social'
     },
     {
       id: 7,
-      title: "SEO",
-      desc: "Unlock growth online",
+      title: "移民律师",
+      desc: "人才7",
       img: "https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741668/seo-2x.png",
       slug: 'seo'
     },
     {
       id: 8,
-      title: "Illustration",
-      desc: "Color you dreams",
-      img: "https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741664/illustration-2x.png",
+      title: "留学文书写作专家",
+      desc: "人才8",
+      img: "https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/ae11e2d45410b0eded7fba0e46b09dbd-1598561917003/wordpress-2x.png",
       slug: 'illustration'
     },
     {
       id: 9,
-      title: "Translation",
-      desc: "Go global",
+      title: "税务与财务顾问",
+      desc: "人才9",
       img: "https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741674/translation-2x.png",
       slug: 'translation'
     },
     {
       id: 10,
-      title: "Book Covers",
-      desc: "Showcase your story",
+      title: "创业与投资顾问",
+      desc: "人才10",
       img: "https://fiverr-res.cloudinary.com/q_auto,f_auto,w_255,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741678/book-covers-2x.png",
       slug: 'books'
     },
     {
       id: 11,
-      title: "Data Entry",
-      desc: "Learn your business",
+      title: "健康与医疗顾问",
+      desc: "人才11",
       img: "https://fiverr-res.cloudinary.com/q_auto,f_auto,w_550,dpr_1.0/v1/attachments/generic_asset/asset/055f758c1f5b3a1ab38c047dce553860-1598561741664/data-entry-2x.png",
       slug: 'writing'
     },
